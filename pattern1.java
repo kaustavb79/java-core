@@ -36,7 +36,7 @@ class pattern1
 			for(j=1;j<=i;j++)
 			{
 			if(i==j)
-			System.out.print(i);
+			System.out.print(" "+i);
 			else
 			System.out.print(" ");
 			}

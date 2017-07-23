@@ -38,7 +38,7 @@ class twoD_search
 				for(j=0;j<3;j++)
 				{
 					if(t[i][j]==se)
-				System.out.print("found in row index : "+i+" and column index: "+j);
+				System.out.print("found in row index : " + i + " and column index: " + j;
 				}
 				
 				System.out.println();
